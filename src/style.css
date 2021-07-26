@@ -293,6 +293,7 @@ a:focus {
 
 .bio p {
   margin-bottom: var(--spacing-0);
+  white-space: pre-wrap;
 }
 
 .bio-avatar {

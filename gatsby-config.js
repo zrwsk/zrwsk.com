@@ -1,15 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `zrwsk.com`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jakub Żurawski`,
+      summary: `Random thoughts about tech, code, business and productivity`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Personal blog by Jakub Żurawski. Tech, code, business and productivity.`,
+    siteUrl: `https://zrwsk.com/`,
   },
   plugins: [
     `gatsby-plugin-image`,
